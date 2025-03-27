@@ -1,7 +1,7 @@
 <!-- ## Autor
 - Nombre: Luisa Fernanda Robles Bailon
 - Email: a23311051@uthermosillo.edu.mx
-- GitHub: [@juanperez](https://github.com/juanperez) -->
+- GitHub: [@Fernanda0052](https://github.com/Fernanda0052/proyectovideojuegos.git) -->
 
 
 
